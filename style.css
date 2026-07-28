@@ -4,3 +4,7 @@
     height: 960px;
     width: 960px;
 }
+
+.grid-square {
+  border: 1px solid #ccc;
+}
